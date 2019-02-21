@@ -1,3 +1,9 @@
 {
-	"name": "qwersk/database"
+	"name": "qwersk/database",
+	"type": "library",
+	"autoload": {
+		"psr-4": {
+			"Qwersk\\": "src/"
+		}
+	}
 }
