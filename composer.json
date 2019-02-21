@@ -5,5 +5,6 @@
 		"psr-4": {
 			"Qwersk\\": "src/"
 		}
-	}
+	},
+	"minimum-stability": "stable"
 }
